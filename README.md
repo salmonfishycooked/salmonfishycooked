@@ -5,23 +5,23 @@
 <div align="center"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsalmonfishycooked%2Fsalmonfishycooked&countColor=%23263759" /></div>
 
 ```
-          {
-       }   }   {
-      {   {  }  }
-       }   }{  {
-      {  }{  }  }
-     ( }{ }{  { )
-    .-{   }   }-.
-   ( ( } { } { } )
-   |`-.._____..-'|
-   |             ;--.
-   |   (__)     (__  \
-   |   (oo)      | )  )
-   |    \/       |/  /
-   |             /  /
-   |            (  /
-   \             y'
-    `-.._____..-'
+                                      {
+                                         }   }   {
+                                        {   {  }  }
+                                         }   }{  {
+                                        {  }{  }  }
+                                       ( }{ }{  { )
+                                      .-{   }   }-.
+                                     ( ( } { } { } )
+                                     |`-.._____..-'|
+                                     |             ;--.
+                                     |   (__)     (__  \
+                                     |   (oo)      | )  )
+                                     |    \/       |/  /
+                                     |             /  /
+                                     |            (  /
+                                     \             y'
+                                      `-.._____..-'
 ```
 
 
@@ -34,13 +34,14 @@
 </div>
 
 
+
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
   <img height="192px" style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmonfishycooked" />
   <img height="192px" style="grid-column: span 6 / span 6;" src="https://streak-stats.demolab.com/?user=salmonfishycooked" />
 </div>
 
 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salmonfishycooked&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=salmonfishycooked" />
-
