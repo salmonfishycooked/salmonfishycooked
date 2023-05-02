@@ -28,12 +28,12 @@
 
 ## ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) Github Stats
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
 	<img height="192px" style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api?username=salmonfishycooked" />
     <img height="192px" style="grid-column: span 6 / span 6;" src="https://streak-stats.demolab.com/?user=salmonfishycooked" />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
 	<img height="192px" style="grid-column: span 6 / span 6;" src="https://stats.justsong.cn/api/leetcode/?username=salmonfishycooked&cn=true" />
   <img height="192px" style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmonfishycooked" />
 </div>
