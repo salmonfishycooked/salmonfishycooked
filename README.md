@@ -2,7 +2,7 @@
 
 ### <div align="center">𝙇𝙚𝙩'𝙩 𝘿𝙤 𝙎𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜 𝘾𝙊𝙊𝙇!!!</div>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsalmonfishycooked%2Fsalmonfishycooked&countColor=%23263759)
+<div align="center"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsalmonfishycooked%2Fsalmonfishycooked&countColor=%23263759" /></div>
 
 ```
           {
@@ -28,7 +28,7 @@
 
 ## ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) Github Stats
 
-<div style="display: grid;grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 0.5rem;">
+<div align="center" style="display: grid;grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 0.5rem;">
 	<img style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api?username=salmonfishycooked" />
 	<img style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmonfishycooked" />
 	<img style="grid-column: span 6 / span 6;" src="https://stats.justsong.cn/api/leetcode/?username=salmonfishycooked&cn=true" />
