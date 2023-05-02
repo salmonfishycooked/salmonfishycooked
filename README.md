@@ -28,14 +28,17 @@
 
 ## ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) Github Stats
 
-<div align="center" style="display: grid;grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 0.5rem;">
-	<img style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api?username=salmonfishycooked" />
-	<img style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmonfishycooked" />
-	<img style="grid-column: span 6 / span 6;" src="https://stats.justsong.cn/api/leetcode/?username=salmonfishycooked&cn=true" />
-	<img style="grid-column: span 6 / span 6;" src="https://streak-stats.demolab.com/?user=salmonfishycooked" />
+<div style="display: flex; justify-content: center; align-items: center;">
+	<img height="192px" style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api?username=salmonfishycooked" />
+    <img height="192px" style="grid-column: span 6 / span 6;" src="https://streak-stats.demolab.com/?user=salmonfishycooked" />
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+	<img height="192px" style="grid-column: span 6 / span 6;" src="https://stats.justsong.cn/api/leetcode/?username=salmonfishycooked&cn=true" />
+  <img height="192px" style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmonfishycooked" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salmonfishycooked&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=salmonfishycooked)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=salmonfishycooked" />
 
