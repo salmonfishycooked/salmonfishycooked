@@ -1,6 +1,6 @@
 ### Here is salmonfishycooked 👋
 
-### Welcome to salmonfishy's GitHub WORLD!
+### Let's Do Something COOL!!!
 
 ```
           {
