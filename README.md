@@ -40,8 +40,4 @@
   <img height="192px" style="grid-column: span 6 / span 6;" src="https://streak-stats.demolab.com/?user=salmonfishycooked" />
 </div>
 
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salmonfishycooked&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=salmonfishycooked" />
