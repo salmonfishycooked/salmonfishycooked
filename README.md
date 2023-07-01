@@ -30,14 +30,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
 	<img height="192px" style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api?username=salmonfishycooked" />
-  	<img height="192px" style="grid-column: span 6 / span 6;" src="https://stats.justsong.cn/api/leetcode/?username=salmonfishycooked&cn=true" />
-</div>
-
-
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <img height="192px" style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmonfishycooked" />
-  <img height="192px" style="grid-column: span 6 / span 6;" src="https://streak-stats.demolab.com/?user=salmonfishycooked" />
+	<img height="192px" style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmonfishycooked" />
 </div>
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=salmonfishycooked" />
