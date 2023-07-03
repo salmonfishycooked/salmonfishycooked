@@ -1,8 +1,5 @@
 ### <div align="center">𝙃𝙚𝙧𝙚 𝙞𝙨 𝙨𝙖𝙡𝙢𝙤𝙣𝙛𝙞𝙨𝙝𝙮𝙘𝙤𝙤𝙠𝙚𝙙 👋 </div>
 
-### <div align="center">𝙇𝙚𝙩'𝙨 𝘿𝙤 𝙎𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜 𝘾𝙊𝙊𝙇!!!</div>
-
-<div align="center"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsalmonfishycooked%2Fsalmonfishycooked&countColor=%23263759" /></div>
 
 ```
       {
