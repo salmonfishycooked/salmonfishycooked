@@ -23,7 +23,7 @@
 
 
 
-## ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) Github Stats
+## 🎮 Github Stats
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
 	<img height="192px" style="grid-column: span 6 / span 6;" src="https://github-readme-stats.vercel.app/api?username=salmonfishycooked" />
