@@ -1,25 +1,6 @@
 ### <div align="center">Here is sharkie 👋 </div>
 
-
-```
-      {
-	 }   }   {
-	{   {  }  }
-	 }   }{  {
-	{  }{  }  }
-       ( }{ }{  { )
-      .-{   }   }-.
-     ( ( } { } { } )
-     |`-.._____..-'|
-     |             ;--.
-     |   (__)     (__  \
-     |   (oo)      | )  )
-     |    \/       |/  /
-     |             /  /
-     |            (  /
-     \             y'
-      `-.._____..-'
-```
+![IMG6541](./assets/IMG6541.jpg)
 
 
 
@@ -31,3 +12,4 @@
 </div>
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=salmonfishycooked" />
+
